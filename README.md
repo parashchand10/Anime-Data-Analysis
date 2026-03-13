@@ -34,12 +34,10 @@ By exploring different features such as rating, number of episodes, members, gen
 
 ## Tools & Technologies Used
 
-* Python
-* Pandas
-* NumPy
-* Matplotlib
-* Seaborn
-* Jupyter Notebook
+- Jupyter Notebook – Interactive environment used to write and run analysis code step by step.
+- Pandas – Used for data cleaning, manipulation, and analysis of structured data.
+- Matplotlib – Used to create basic data visualizations and plots.
+- Seaborn – Used for advanced and attractive statistical visualizations.
 
 ---
 
