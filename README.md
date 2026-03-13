@@ -1,6 +1,6 @@
 # Anime-Data-Analysis
 
-<img src="/unemployment.png" alt="Unemployment Analysis" width="700" height="800" />
+<img src="/anime.png" alt="anime" width="700" height="800" />
 
 ## Project Overview
 
