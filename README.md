@@ -1,5 +1,6 @@
 # Anime-Data-Analysis
-This project analyzes an Anime dataset to understand viewer preferences, rating distribution, and genre popularity.
+
+<img src="/unemployment.png" alt="Unemployment Analysis" width="700" height="800" />
 
 ## Project Overview
 
