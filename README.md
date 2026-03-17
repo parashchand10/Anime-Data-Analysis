@@ -50,3 +50,16 @@ By exploring different features such as rating, number of episodes, members, gen
 * Episode Count Comparison
 * Anime Type Distribution
 * Popularity Analysis based on Members
+
+---
+
+### Install library
+
+To install the libraries listed in your requirements.txt file, follow these steps:
+
+Navigate to your project directory in the terminal (where your requirements.txt file is located).
+
+Run the following command to install the required packages:
+```
+pip install -r requirements.txt
+```
