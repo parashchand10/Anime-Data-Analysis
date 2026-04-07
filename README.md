@@ -1,4 +1,4 @@
-# Anime-Data-Analysis
+# Anime Data Analysis
 
 <img src="/anime.png" alt="anime" width="700" height="800" />
 
